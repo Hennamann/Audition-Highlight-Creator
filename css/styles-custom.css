@@ -1,0 +1,25 @@
+/*
+ * Written by Ole Henrik Stabell - ole@henrikstabell.com
+ * Licensed under the MIT License - https://opensource.org/licenses/MIT
+ *
+ */
+
+ body {
+    margin: 10px;
+}
+
+#content {
+    margin-right:auto;
+    margin-left:auto;
+}
+
+#btn_test{
+    width: 100%;
+    vertical-align: middle;
+}
+
+input {
+    background-color: rgb(31, 31, 31);
+    border: none;
+    outline: none;
+}
