@@ -4,8 +4,9 @@
  *
  */
 
- body {
+body {
     margin: 10px;
+    font-family: "Adobe Clean", "Myriad Pro", sans-serif;
 }
 
 #content {
@@ -22,4 +23,5 @@ input {
     background-color: rgb(31, 31, 31);
     border: none;
     outline: none;
+    width: 50px;
 }
